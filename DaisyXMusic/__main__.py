@@ -1,4 +1,4 @@
-# DaisyXMusic (Telegram bot project)
+# PrincePatilOpMusic (Telegram bot project)
 # Copyright (C) 2021  Inuka Asith & Rojserbest
 
 # This program is free software: you can redistribute it and/or modify
